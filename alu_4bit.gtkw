@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Wed Nov 11 09:54:18 2026
+[*]
+[dumpfile] "/home/priyangana/4_Bit_ALU/alu_4bit_dump.vcd"
+[dumpfile_mtime] "Wed Nov 11 09:36:04 2026"
+[dumpfile_size] 1081
+[savefile] "/home/priyangana/4_Bit_ALU/alu_4bit.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -27 -24
+*-13.410968 40350 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] alu_4bit_tb.
+[sst_width] 297
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+alu_4bit_tb.uut.a[3:0]
+alu_4bit_tb.uut.alu_out[3:0]
+alu_4bit_tb.uut.alu_sel[2:0]
+alu_4bit_tb.uut.b[3:0]
+alu_4bit_tb.uut.carry_out
+@25
+alu_4bit_tb.uut.total[4:0]
+@28
+alu_4bit_tb.uut.zero_flag
+[pattern_trace] 1
+[pattern_trace] 0
