@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Nov 10 03:03:40 2026
+[*]
+[dumpfile] "/home/priyangana/4_Bit_ALU/dump.vcd"
+[dumpfile_mtime] "Mon Nov  9 15:48:12 2026"
+[dumpfile_size] 435
+[savefile] "/home/priyangana/4_Bit_ALU/and_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-13.710017 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] and_tb.
+[sst_width] 297
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+and_tb.uut.a
+and_tb.uut.b
+and_tb.uut.y
+[pattern_trace] 1
+[pattern_trace] 0

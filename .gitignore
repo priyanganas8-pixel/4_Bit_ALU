@@ -1,5 +1,7 @@
 # Icarus Verilog compiled simulation output
 /sim_out
+/sim
+/alu_sim
 *.vvp
 
 # Generated simulation waveforms
@@ -7,3 +9,7 @@
 *.fst
 *.lxt
 *.lxt2
+
+# Generated schematic exports
+/alu_schematic.dot
+/alu_schematic.png
